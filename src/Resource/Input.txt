@@ -1,0 +1,19 @@
+10
+undirected
+Alice
+Patrick
+Bob
+Carol
+Adam
+Sophie
+Susan
+Linda
+Rebbecca
+Ella
+Alice Ella
+Alice Patrick
+Patrick Bob
+Bob Carol
+Sophie Susan
+Susan Linda
+Linda Rebbecca
